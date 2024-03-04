@@ -1,0 +1,19 @@
+{
+    "en_US": {
+      "greeting": "Hello!"
+   
+    },
+    "es_ES": {
+      "greeting": "¡Hola!"
+    
+    },
+    "fr_FR": {
+      "greeting": "Bonjour!"
+    
+    },
+    
+    "hi_IN": {
+        "greeting": "नमस्ते!"
+        
+      }
+  }
